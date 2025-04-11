@@ -1,1 +1,1 @@
-rootProject.name = "platformsh-plugin"
+rootProject.name = "platformsh-upsun-plugin"
